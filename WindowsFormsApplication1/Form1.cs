@@ -17,6 +17,8 @@ namespace WindowsFormsApplication1
             InitializeComponent();
 
             мой проект
+
+                123
         }
     }
 }
